@@ -1,4 +1,4 @@
-# Obstacle-Tanks-Project
+# Obstacle-Tank
 国際理工情報デザイン専門学校<br/>
 ゲームクリエイター科3年<br/>　
 プログラミングコース専攻の宮澤亨佳です。
